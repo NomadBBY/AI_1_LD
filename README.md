@@ -1,2 +1,2 @@
-# AI_1_LD
+# Artificial intelligence
 Trying to build checkers 
