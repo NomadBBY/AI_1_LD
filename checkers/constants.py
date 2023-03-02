@@ -4,11 +4,10 @@ WIDTH, HEIGHT = 800, 800
 ROWS, COLS = 8, 8
 SQUARE_SIZE = WIDTH//COLS
 
-# RGB Values:
-RED = (255, 0, 0)
-WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-BLUE = (0, 0, 255)
-GREY = (128,128,128)
+RED = (208, 30, 15) # A deep red
+WHITE = (255, 250, 250) # An off-white
+BLACK = (20, 20, 20) # A dark grey
+BLUE = (28, 137, 204) # A vibrant blue
+GREY = (192, 192, 192) # A light grey
 
-CROWN = pygame.transform.scale(pygame.image.load('assets/crown.png'), (50, 35))
+CROWN = pygame.transform.scale(pygame.image.load('assets/crown.png'), (44, 25))
